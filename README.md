@@ -9,7 +9,6 @@ A library that fuses accelerometer and gyroscope readings with an optimized comp
 <br>
 <br>	
 <a href="https://github.com/username/OrientPy"> <img src="https://img.shields.io/badge/License-MIT-informational.svg"> </a>
-<a href="https://github.com/username/OrientPy"> <img src="https://img.shields.io/badge/Maintained%3F-yes-orange.svg"> </a>	
 
 
 <img width="1680" alt="Screenshot 2025-03-11 at 16 12 42" src="https://github.com/user-attachments/assets/8a0fb4f9-76e6-43ea-94d0-81f14c08ad66" />
